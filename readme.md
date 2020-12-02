@@ -17,7 +17,7 @@
 
 ## 获取Cookie
 
-获取eai-sess和UUkey
+获取eai-sess和UUkey :-)
 
 1. 打开浏览器，按F12调出控制台
 
